@@ -1,6 +1,8 @@
-Insert Repo badges
+[View the deployed project here](https://msinnema33.github.io/Game-of-Life/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![React](https://img.shields.io/badge/react-v16.13.1-blue.svg)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 CS Build Week:  [CS Build week #1](https://github.com/LambdaSchool/CS-Build-Week-1)
 
