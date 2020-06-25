@@ -3,6 +3,7 @@ import AppBar from '@material-ui/core/AppBar';
 import Container from '@material-ui/core/Container';
 import HomeIcon from '@material-ui/icons/Home';
 import InfoIcon from '@material-ui/icons/Info';
+import PlayArrowIcon from '@material-ui/icons/PlayArrow';
 import { createMuiTheme } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 import { green } from '@material-ui/core/colors';
@@ -33,6 +34,9 @@ const useStyles = makeStyles({
     paddingLeft: '250px',
     fontSize: '36px'
   },
+  playIcon: {
+    fontSize: '36px'
+  },
   homeTitle: {
     fontSize: '24px',
     fontWeight: 'bold',
@@ -55,6 +59,9 @@ const NavBar = (props) => {
           </Link>
           <Link to='/about' className={classes.link}>
             <InfoIcon className={classes.infoIcon} />
+          </Link>
+          <Link to='/game' className={classes.link}>
+            <PlayArrowIcon className={classes.playIcon} />
           </Link>
           <Link to='/' className={classes.link}>
             <HomeIcon className={classes.homeIcon} />
