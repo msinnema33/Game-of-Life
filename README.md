@@ -1,4 +1,4 @@
-[View the deployed project here](https://msinnema33.github.io/Game-of-Life/)
+[View the deployed project here](https://game-of-life-msinnema.vercel.app/game)
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.13.1-blue.svg)
