@@ -66,7 +66,7 @@ const Game = (props) => {
   const classes = useStyles();
 
   //set initial specs for the grid
-  const gridSize = 30;
+  const gridSize = 40;
   const [active, setActive] = useState(makeArray(gridSize));
   const [preset, setPresets] = useState('');
   const [speed, setSpeed] = useState(1);
