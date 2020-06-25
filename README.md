@@ -5,6 +5,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 CS Build Week:  [CS Build week #1](https://github.com/LambdaSchool/CS-Build-Week-1)
+ GitHub repo with instructions
 
 
 ## Rules of the game
@@ -16,15 +17,15 @@ CS Build Week:  [CS Build week #1](https://github.com/LambdaSchool/CS-Build-Week
 ## Turing Completeness 
     A computing system is "Turing Complete" if it can
     perform arbitrary general purpose calculations.
-While the Game of Life system isn't Turing Complete in its current form, given an infinite grid size<br />
-and unlimited computing resources (memory, CPU cycles, and storage) it could be considered Turing<br />
-Complete and the JavaScript language itself is generally considered Turing Complete.<br />
+While the Game of Life system isn't Turing Complete in its current form, given an infinite grid size
+and unlimited computing resources (memory, CPU cycles, and storage) it could be considered Turing
+Complete and the JavaScript language itself is generally considered Turing Complete.
     Taken from [Wikipedia](https://en.wikipedia.org/wiki/Turing_completeness).    
 
 ## Celular automata
     Basically defined as:
-computational models that are typically represented by a grid with values. <br />
-In this case the values are 0 and 1 (dead, alive). Each cells state will change in accordance with <br />
+Computational models that are typically represented by a grid with values. <br />
+In this case the values are 0 and 1 (dead, alive). Each cells state will change in accordance with 
 the rules lised above.
     Taken from [Towards Data Science](https://towardsdatascience.com/algorithmic-beauty-an-introduction-to-cellular-automata-f53179b3cf8f)<br />
 Another famous example is the Sierpinski trangle (fractal) [Sierpinski](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle)
