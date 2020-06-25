@@ -8,7 +8,7 @@ const About = (props) => {
     <div>
       <NavBar />
       <Container>
-        <h1>All about Conway's Game of Life</h1>
+        <h1>About Conway's Game of Life</h1>
         <p>
           Devised by British Mathematician John H. Conway in 1970, the Game of Life
           plays by a small set of rules. It is considered a zero-player game in which the

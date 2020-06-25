@@ -1,4 +1,4 @@
-const size = 29;
+const size = 44;
 const blank = Array(size)
   .fill()
   .map(() => {

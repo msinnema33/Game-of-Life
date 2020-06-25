@@ -8,13 +8,15 @@ CS Build Week:  [CS Build week #1](https://github.com/LambdaSchool/CS-Build-Week
  GitHub repo with instructions
 
 
-## Rules of the game
+## Rules of "Life" (for this instance)
+
 1. Any live cell with fewer than two live neighbors dies. (underpopulation)
 2. Any live cell with two or three neighbors lives on to the next generation.
 3. Any live cell with more than three live neighbors dies. (overpopulation)
 4. Any dead cell with exactly three live neighbors becomes alive. (reproduction) 
 
 ## Turing Completeness 
+
     A computing system is "Turing Complete" if it can
     perform arbitrary general purpose calculations.
 While the Game of Life system isn't Turing Complete in its current form, given an infinite grid size
@@ -23,6 +25,7 @@ Complete and the JavaScript language itself is generally considered Turing Compl
     Taken from [Wikipedia](https://en.wikipedia.org/wiki/Turing_completeness).    
 
 ## Celular automata
+
     Basically defined as:
 Computational models that are typically represented by a grid with values. <br />
 In this case the values are 0 and 1 (dead, alive). Each cells state will change in accordance with 
